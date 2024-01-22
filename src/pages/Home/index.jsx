@@ -20,7 +20,7 @@ import rectangle3 from "../../assets/photo/home/Rectangle 28 (2).png";
 import rectangle4 from "../../assets/photo/home/Rectangle 28 (3).png";
 import ellipse from "../../assets/photo/home/Ellipse 1.svg";
 import dot from "../../assets/photo/home/Dot.svg";
-import { NeuroEmployee } from "./anima";
+import { NeuroEmployee } from "./NeuroEmployee";
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 
 const HomePage = () => {
@@ -119,11 +119,7 @@ const HomePage = () => {
                 </section>
             {/* section 2 */}
                 <section className="self-stretch bg-whitesmoke-300 overflow-hidden flex flex-col items-center justify-start pt-0 pb-20 pr-0 pl-[60px] box-border gap-[75px] max-w-full shrink-0 text-left text-21xl text-gray-500 font-futura-lt-paneuropean mq450:gap-[19px] mq450:pb-[34px] mq450:box-border mq925:gap-[37px] mq925:pl-[30px] mq925:pb-[52px] mq925:box-border">
-            {/* <div className="w-[338px] h-[306px] relative hidden max-w-full">
-            <div className="absolute h-full w-[calc(100%_-_248px)] top-[0px] right-[248px] bottom-[0px] left-[0px] rounded-tl-none rounded-tr-81xl rounded-b-none bg-whitesmoke-400" />
-            <div className="absolute w-[calc(100%_-_247px)] top-[306px] right-[-5px] left-[252px] rounded-tl-none rounded-tr-81xl rounded-b-none bg-whitesmoke-400 h-[306px] [transform:_rotate(180deg)] [transform-origin:0_0]" />
-            <div className="absolute w-[calc(100%_-_332px)] top-[0px] right-[0px] left-[332px] rounded-tl-none rounded-tr-81xl rounded-br-81xl rounded-bl-none bg-whitesmoke-400 h-[306px]" />
-            </div> */}
+           
             <div className="self-stretch rounded-tl-21xl rounded-tr-none rounded-br-none rounded-bl-21xl bg-white shadow-[0px_10px_50px_rgba(0,_0,_0,_0.05)] box-border flex flex-row flex-wrap items-start justify-start pt-[34px] pb-[17px] pr-0.5 pl-[23px] relative gap-[55px] max-w-full border-[1px] border-solid border-whitesmoke-100 mq450:pt-[22px] mq450:pb-5 mq450:box-border mq925:gap-[27px]">
             <h1 className="my-0 mx-[!important] h-full w-[860px] absolute top-[0px] right-[0px] text-inherit leading-[130%] font-normal font-inherit inline-block min-h-[416px] mq450:text-5xl mq450:leading-[31px] mq925:text-13xl mq925:leading-[42px]">
                 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
