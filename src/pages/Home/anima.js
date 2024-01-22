@@ -15,15 +15,15 @@ export const NeuroEmployee = () => {
   return (
     <div className="neuro-employee">
       <div className="overlap">
-        <Parallax pages={1.2}>
-        <ParallaxLayer speed={1.25} offset={0}>
+        <Parallax className="parallax" pages={1.25}>
+        <ParallaxLayer offset={0} speed={1.25}>
         <div className="dots">
           <img className="dot" alt="Dot" src={dot} />
           <img className="dot" alt="Dot" src={dot} />
         </div>
         <img className="ellipse" alt="Ellipse" src={ellipse} />
         </ParallaxLayer>
-        <ParallaxLayer speed={1} offset={0}>
+        <ParallaxLayer offset={0} speed={1}>
         <div className="bkg">
           <p className="p">
             <span className="text-wrapper-2">i</span>
@@ -111,5 +111,6 @@ export const NeuroEmployee = () => {
         </Parallax>
       </div>
     </div>
+    
   );
 };

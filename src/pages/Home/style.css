@@ -229,4 +229,7 @@
     top: 271px;
     white-space: nowrap;
   }
-  
+
+  .parallax::-webkit-scrollbar { 
+    display: none; 
+} 
