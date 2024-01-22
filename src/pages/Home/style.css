@@ -1,0 +1,232 @@
+.neuro-employee {
+    background-color: #eeeff4;
+    height: 854px;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .neuro-employee .overlap {
+    height: 839px;
+    left: 10%;
+    position: relative;
+    width: 90%;
+    overflow: hidden;
+  }
+  
+  .neuro-employee .dots {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 13px;
+    left: 152px;
+    position: absolute;
+    top: 631px;
+  }
+  
+  .neuro-employee .dot {
+    height: 154px;
+    position: relative;
+    width: 196px;
+  }
+  
+  .neuro-employee .ellipse {
+    height: 150px;
+    left: 1182px;
+    object-fit: cover;
+    position: absolute;
+    top: 689px;
+    width: 150px;
+  }
+  
+  .neuro-employee .bkg {
+    align-items: flex-start;
+    background-color: #f4f9ff;
+    border-radius: 150px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    left: 11px;
+    position: relative;
+    top: 38px;
+    width: 1345px;
+  }
+  
+  .neuro-employee .p {
+    color: transparent;
+    font-family: "Futura LT Paneuropean-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: -2.4px;
+    line-height: 40px;
+    margin-top: -1px;
+  }
+  
+  .neuro-employee .span {
+    line-height: 130.8px;
+  }
+  
+  .neuro-employee .text-wrapper-2 {
+    line-height: 575px;
+  }
+  
+  .neuro-employee .eye {
+    height: 303px;
+    position: absolute;
+    top: 312px;
+    width: 417px;
+  }
+  
+  .neuro-employee .view {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    left: 137px;
+    position: absolute;
+    top: 140px;
+    width: 457px;
+  }
+  
+  .neuro-employee .text-wrapper-3 {
+    align-self: stretch;
+    color: #294075;
+    font-family: "Futura LT Paneuropean-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .neuro-employee .button-2-DSK {
+    flex: 0 0 auto !important;
+  }
+  
+  .neuro-employee .cards {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px 22px;
+    justify-content: center;
+    left: 629px;
+    position: absolute;
+    top: 0;
+    width: 628px;
+  }
+  
+  .neuro-employee .element {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 23px;
+    padding: 60px 0px 0px;
+    position: relative;
+  }
+  
+  .neuro-employee .frame-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .neuro-employee .frame-2 {
+    margin-bottom: -3px !important;
+    margin-left: -3px !important;
+    margin-right: -3px !important;
+    margin-top: -3px !important;
+  }
+  
+  .neuro-employee .frame-instance {
+    font-family: "Gilroy-Regular-☞", Helvetica !important;
+    font-size: 14px !important;
+    line-height: 19.6px !important;
+  }
+  
+  .neuro-employee .frame-2-instance {
+    flex: 0 0 auto !important;
+    margin-bottom: -3px !important;
+    margin-left: -3px !important;
+    margin-right: -3px !important;
+  }
+  
+  .neuro-employee .element-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .neuro-employee .design-component-instance-node {
+    flex: 0 0 auto !important;
+    margin-left: -3px !important;
+    margin-right: -3px !important;
+    margin-top: -3px !important;
+  }
+  
+  .neuro-employee .scroll {
+    height: 293px;
+    left: 0;
+    position: absolute;
+    top: 117px;
+    width: 25px;
+  }
+  
+  .neuro-employee .overlap-group {
+    height: 225px;
+    left: 8px;
+    position: absolute;
+    top: 32px;
+    width: 7px;
+  }
+  
+  .neuro-employee .rectangle-2 {
+    background-color: #a8aaae;
+    height: 225px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 2px;
+  }
+  
+  .neuro-employee .rectangle-3 {
+    background-color: #022734;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 82px;
+    width: 7px;
+  }
+  
+  .neuro-employee .text-wrapper-4 {
+    color: #022734;
+    font-family: "Futura LT Paneuropean-Book", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .neuro-employee .text-wrapper-5 {
+    color: #022734;
+    font-family: "Futura LT Paneuropean-Book", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    position: absolute;
+    text-align: center;
+    top: 271px;
+    white-space: nowrap;
+  }
+  
